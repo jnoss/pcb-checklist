@@ -77,8 +77,8 @@ thermal
 =============
 
 sources:
-http://www.aqdi.com/check.htm
-http://www-ppd.fnal.gov/EEDOffice-w/Projects/MicroBoone/EDR/Electronic_assemblies_checklist_062812.pdf
-http://www.quick-teck.co.uk/TechArticleDoc/19196513481352925083.pdf
-http://www.aqdi.com/check.htm
-http://electronics.stackexchange.com/questions/6773/good-checklist-for-pcb-design-to-be-used-by-the-ee-not-by-the-pcb-designer
+- http://www.aqdi.com/check.htm
+- http://www-ppd.fnal.gov/EEDOffice-w/Projects/MicroBoone/EDR/Electronic_assemblies_checklist_062812.pdf
+- http://www.quick-teck.co.uk/TechArticleDoc/19196513481352925083.pdf
+- http://www.aqdi.com/check.htm
+- http://electronics.stackexchange.com/questions/6773/good-checklist-for-pcb-design-to-be-used-by-the-ee-not-by-the-pcb-designer
