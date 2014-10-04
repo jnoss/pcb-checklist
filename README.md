@@ -48,6 +48,7 @@ new components:
 - [ ] pads >=10 mils larger than finished hole sizes (also seen this >=15)
 - [ ] For SMT pads, the length are at least 8mil longer than pins' length (4mil each side). The width should be at least equal to pads' width.
 - [ ] all ICs have pin one clearly marked, visible even when chip is installed
+- [ ] re-check all dimensions and pinouts from datasheet
 
 date code:
 
