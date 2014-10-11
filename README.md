@@ -34,7 +34,8 @@ labelling, mechanical
 - [ ] labels on pins for functions - label ADC pins, PWM pins, etc.
 - [ ] ensure pin 1 (different usually square) interpretation and orientation consistent among all connectors of a given type on the board
 - [ ] for asymmetric connectors ensure that orientation is as desired for outside/case layout/etc. (ISP, ftdi adapters, etc)
-- [ ] if making multiple similar boards, follow same convention for connector layout/ orientation on each
+- [ ] if making multiple similar boards, follow same convention for connector layout/ orientation on each (if a connector / adapter board will hang off the edge of the board, ensure that it is set the correct orientation)
+- [ ] ensure that polarity of connectors is marked, or if possible physically keyed or interlocked
 - [ ] high pin count ICs and connectors have corner pins numbered for ease of location
 - [ ] silk screen tick marks for every 5th or 10th pin on high pin count ICs and connectors
 
