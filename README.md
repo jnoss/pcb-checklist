@@ -43,6 +43,7 @@ labelling, mechanical
 stenciling:
 
 - [ ] ensure any new components don't have rounded-edged pads (will break paths for stencil)
+- [ ] set to "Always vector font" if using EAGLE
 
 new components:
 
