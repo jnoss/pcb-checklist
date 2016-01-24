@@ -18,8 +18,7 @@ Checklist to be used before sending a pcb to fab. Sources I've used at end, comm
 - [ ] Check reset circuitry, switch or jumper is accessible
 - [ ] On power/ground plane, distribute the via density about the available space as evenly as possible.
 - [ ] Thermal relief pad used for these pads which could have cold solder joint issue (e.g., power/ground pins of through-hole parts).
-- [ ] no silkscreen legend text over vias (if vias not solder masked) or holes
-- [ ] Soldermask does or does not cover vias (consistently tented or not)
+- [ ] Guard ring around crystal if using
 
 testing
 
@@ -28,6 +27,8 @@ testing
 
 labelling, mechanical
 
+- [ ] no silkscreen legend text over vias (if vias not solder masked) or holes
+- [ ] Soldermask does or does not cover vias (consistently tented or not)
 - [ ] all legend text reads in one or two directions
 - [ ] components labeled left-right, top-bottom
 - [ ] Switches, jumpers or LEDs are labeled with their functions.
