@@ -40,6 +40,7 @@ labelling, mechanical
 - [ ] ensure that polarity of connectors is marked, or if possible physically keyed or interlocked
 - [ ] high pin count ICs and connectors have corner pins numbered for ease of location
 - [ ] silk screen tick marks for every 5th or 10th pin on high pin count ICs and connectors
+- [ ] mounting holes if necessary (and check clearances)
 
 stenciling:
 
